@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>QUIKBOOM DIGITAL MARKETING AGENCY </title>
+    <meta name="description" content="QUIKBOOM DIGITAL MARKETING AGENCY  — Your Growth, Our Mission." />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content="QUIKBOOM DIGITAL MARKETING AGENCY " />
+    <meta property="og:description" content="QUIKBOOM DIGITAL MARKETING AGENCY  — Your Growth, Our Mission." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="QUIKBOOM DIGITAL MARKETING AGENCY " />
+    <meta name="twitter:description" content="QUIKBOOM DIGITAL MARKETING AGENCY  — Your Growth, Our Mission." />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="apple-touch-icon" href="/favicon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script type="module" crossorigin src="/assets/index-Cj85ouud.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-Ds4Ej4-v.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
