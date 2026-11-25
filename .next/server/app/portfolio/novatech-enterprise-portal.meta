@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/portfolio/layout,_N_T_/portfolio/[slug]/layout,_N_T_/portfolio/[slug]/page,_N_T_/portfolio/novatech-enterprise-portal"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/e25d2dc60358ff7a38f19bfebdce6f7deeb8b7f0a72eb90c5d9a6163e8d5f2cb/$/portfolio/novatech-enterprise-portal",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/portfolio/[slug]/page"
+    },
+    "isFallback": false
+  }
+}

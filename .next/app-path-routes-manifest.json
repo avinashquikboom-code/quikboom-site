@@ -1,0 +1,13 @@
+{
+  "/api/enquiries/route": "/api/enquiries",
+  "/api/newsletter/route": "/api/newsletter",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/robots.txt/route": "/robots.txt",
+  "/_not-found/page": "/_not-found",
+  "/page": "/",
+  "/blog/[slug]/page": "/blog/[slug]",
+  "/services/[slug]/page": "/services/[slug]",
+  "/privacy-policy/page": "/privacy-policy",
+  "/portfolio/[slug]/page": "/portfolio/[slug]",
+  "/terms/page": "/terms"
+}
